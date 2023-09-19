@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #eaeaea;
+    background-color: #87CEEB;
     margin: 0;
     padding: 0;
 }
@@ -21,8 +21,8 @@ header {
 
 #profile-pic {
     width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    height: 200px;
+    border-radius: 20%;
     margin-right: 20px;
 }
 
